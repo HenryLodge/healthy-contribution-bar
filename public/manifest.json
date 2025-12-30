@@ -12,6 +12,12 @@
     "service_worker": "service-worker.js",
     "type": "module"
   },
+  "content_scripts": [{
+    "matches": ["https://github.com/*"],
+    "js": ["content.js"],
+    "run_at": "document_end"
+  }
+  ],
   "permissions": [
     "scripting",
     "tabs",
