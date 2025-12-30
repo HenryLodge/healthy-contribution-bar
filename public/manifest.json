@@ -4,12 +4,12 @@
   "version": "1.0.1",
   "action": {
     "default_icon": {
-      "32": "./assets/icon32.png"
+      "32": "icon32.png"
     },
-    "default_popup": "./src/index.html"
+    "default_popup": "index.html"
   },
   "background": {
-    "service_worker": "./src/service-worker.js",
+    "service_worker": "service-worker.js",
     "type": "module"
   },
   "permissions": [
