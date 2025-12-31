@@ -450,7 +450,7 @@ export function loadXPMode(container, contributionData) {
       font-size: 18px;
       font-weight: 600;
       color: #24292e;
-      margin: 0 0 4px 0;
+      margin: 0 0 -3px 0;
       letter-spacing: -0.02em;
     }
     
