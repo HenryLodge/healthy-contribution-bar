@@ -2,7 +2,7 @@
 
 A Chrome extension that reimagines GitHub's contribution graph to promote healthier coding habits and reduce productivity anxiety.
 
-![Extension Popup](mountainBar.png)
+![Extension Popup](example.png)
 
 ## Why This Extension?
 
