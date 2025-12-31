@@ -305,7 +305,7 @@ export function loadMountainMode(container, contributionData) {
       
       <div class="hcb-mountain-text">
         <h3 class="hcb-mountain-title">Your code could climb <span class="hcb-mountain-feet">${formattedFeet} feet</span> up Mount Everest</h3>
-        <p class="hcb-mountain-subtitle">Keep pushing to new heights!</p>
+        <p class="hcb-mountain-subtitle">Keep climbing!</p>
       </div>
     </div>
   `;
