@@ -140,7 +140,7 @@ export function loadMountainMode(container, contributionData) {
     /* Left mountain (shorter) */
     .hcb-mountain-layer-2 {
       position: absolute;
-      bottom: -5%;
+      bottom: -8%;
       left: -10%;
       width: 40%;
       height: 80%;
@@ -151,7 +151,7 @@ export function loadMountainMode(container, contributionData) {
     
     .hcb-mountain-snow-2 {
       position: absolute;
-      bottom: -5%;
+      bottom: -8%;
       left: -10%;
       width: 40%;
       height: 80%;
