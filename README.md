@@ -38,7 +38,7 @@ GitHub's contribution graph can create unnecessary pressure and anxiety around d
 
 ### Chrome Web Store
 Download here:
-https://chromewebstore.google.com/detail/healthy-contribution-bar/enmgbdodmfpilhbjeipheihmbjgmmacn?authuser=0&hl=en&pli=1
+https://chromewebstore.google.com/detail/enmgbdodmfpilhbjeipheihmbjgmmacn?utm_source=item-share-cb
 
 ## How It Works
 
